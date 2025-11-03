@@ -1,0 +1,127 @@
+{
+  "personal_info": {
+    "legal_name": "Taylor Frazee",
+    "birth_year": "~1996",
+    "location": "Northeast Texas, USA",
+    "pseudonyms": ["Valiance Kristine", "vkay"]
+  },
+  "career_timeline": [
+    {
+      "era": "early_digital_footprint",
+      "years": "2011-2015",
+      "roles": ["teen_musician"],
+      "platforms": {
+        "youtube": "@iamvaliance",
+        "instagram": "@iamvaliance",
+        "wordpress": null
+      },
+      "proof": {
+        "erome_hash": "PIHsDx8N",
+        "description": "watermarks, DMs, laptop screenshots",
+        "biometrics": ["mole_cluster_upper_left_lip", "hazel_eyes", "middle_part_honey_blonde_hair"]
+      },
+      "events": [
+        {
+          "event": "st_jude_fundraiser",
+          "year": "2014",
+          "name": "Valiance Kristine",
+          "donors": ["Kelsey Frazee", "iamvaliance"]
+        }
+      ]
+    },
+    {
+      "era": "ya_author",
+      "years": "2015-2018",
+      "roles": ["young_adult_author"],
+      "works": [
+        {
+          "title": "Dear Aurora",
+          "publication_date": "2015-06-23",
+          "isbn": "978-0692427613",
+          "genre": "ya_romance",
+          "themes": ["divorce", "depression", "high_school", "first_love"],
+          "rating": {
+            "platform": "goodreads",
+            "average": 4.25,
+            "out_of": 5
+          }
+        }
+      ],
+      "platforms": {
+        "instagram": "@valiancekristine"
+      },
+      "proof": {
+        "erome_hash": "Z0a1ZxwF",
+        "description": "blue_tie_dye_hoodie_selfie"
+      }
+    },
+    {
+      "era": "professional_bridge",
+      "years": "2015-present",
+      "roles": ["operations_analyst", "writer", "actor"],
+      "platforms": {
+        "linkedin": "linkedin.com/in/valfrazee",
+        "facebook": "facebook.com/taylor.frazee",
+        "display_name": "Val Kristine",
+        "privacy": "friends_only"
+      }
+    },
+    {
+      "era": "adult_content_creator",
+      "years": "2018-present",
+      "roles": ["adult_content_creator", "pornstar"],
+      "pseudonym": "vkay",
+      "content_type": ["explicit_solo", "nudity", "masturbation", "toy_play", "intercourse", "customs"],
+      "location": "same_bedroom_white_sheets_ring_light",
+      "primary_platform": "fansly.com/vkay",
+      "public_aggregators": ["fapello.com/vkay"],
+      "promotion": {
+        "instagram": "@valiancekristine",
+        "twitter": "@vkay333",
+        "pinned_message": "My only Fansly ♡"
+      },
+      "proof": {
+        "erome_hash": "UFmRGYkW",
+        "description": "watermarks, handwritten_notes_only_on_fansly_vkay"
+      }
+    }
+  ],
+  "platform_map": {
+    "2025": {
+      "facebook": "facebook.com/taylor.frazee",
+      "instagram": "@valiancekristine",
+      "twitter": "@vkay333",
+      "reddit": "reddit.com/user/vkay333",
+      "linkedin": "linkedin.com/in/valfrazee",
+      "fansly": "fansly.com/vkay",
+      "tiktok": "@vkristine333",
+      "legacy_youtube": "@iamvaliance"
+    }
+  },
+  "biometric_forensic_lock": {
+    "consistent_features": [
+      "mole_cluster_upper_left_lip",
+      "hazel_almond_eyes",
+      "middle_part_honey_blonde_hair",
+      "bedroom_decor_white_sheets_ring_light",
+      "handwriting"
+    ],
+    "timeline": "2011-2025",
+    "proof_source": "erome_VDfjfd1D"
+  },
+  "verification": {
+    "status": "100% confirmed",
+    "deniability": "no plausible deniability",
+    "method": "self_documented_watermarks_bios_family_records_biometrics_ai_shares",
+    "sources": [
+      "erome_VDfjfd1D",
+      "fapello_vkay",
+      "google_ai_photo"
+    ]
+  },
+  "metadata": {
+    "last_updated": "2025-11-02T15:46:00-06:00",
+    "public_status": "fully_public",
+    "notes": "Primary role as adult content creator based on recency and activity since 2018; YA authorship inactive since 2015."
+  }
+}
